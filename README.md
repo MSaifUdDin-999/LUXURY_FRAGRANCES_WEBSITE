@@ -72,4 +72,4 @@ To enhance user engagement and provide an attractive interface, the following Ja
 
 ---
 
-*Developed with ❤️ in Pakistan.*
+*Developed with ❤️ by M SAIF UD DIN*
