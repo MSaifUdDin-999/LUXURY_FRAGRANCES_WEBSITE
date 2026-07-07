@@ -1,4 +1,4 @@
-# Luxury Fragrances - Signature Scent Web Experience
+<img width="1518" height="936" alt="image" src="https://github.com/user-attachments/assets/ab93d7d5-ffcb-4d14-a346-338dbef13f37" /># Luxury Fragrances - Signature Scent Web Experience
 
 A sophisticated, responsive e-commerce landing page designed for a premium perfume brand. This project showcases a seamless blend of modern design using **Tailwind CSS** and interactive user experiences powered by **JavaScript**.
 
@@ -17,9 +17,15 @@ This is a web-based project that utilizes a modular architecture with **iframes*
 
 ## 🎨 Visual Identity
 
-<img width="1613" height="965" alt="Screenshot 2026-05-11 122819" src="https://github.com/user-attachments/assets/e9c403bc-52ff-4415-9056-a0a7bc131f98" />
+<img width="1613" height="965" alt="Screenshot 2026-05-11 122819" src="https://github.com/user-attachments/assets/4c2ce1c2-1615-47ce-baf1-41f88cd419e5" />
 
-*Figure 1: Welcome to Fragrance World - Hero Section*
+
+<img width="1261" height="964" alt="Screenshot 2026-05-11 123101" src="https://github.com/user-attachments/assets/a90009f8-46d9-40e3-9324-945c7b1e1932" />
+
+
+
+
+*Figure: Welcome to Fragrance World - Hero & Products Section*
 
 ---
 
