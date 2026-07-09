@@ -6,7 +6,7 @@ A sophisticated, responsive e-commerce landing page designed for a premium perfu
 
 ## 🚀 Live Demo
 
-**🔴 https://luxury-fragrances-site.vercel.app/**
+**🔴 https://luxury-fragrances-site.vercel.app/ 🔴**
 
 ---
 ## 💻 Overview
