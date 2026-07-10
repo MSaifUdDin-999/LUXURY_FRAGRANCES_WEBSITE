@@ -1,4 +1,4 @@
-#  𖠞༄✨Luxury Fragrances⚱ - Signature Scents🧴🫧
+#  𖠞༄✨Luxury Fragrances⚱- Signature Scents🧴🫧
 
 A sophisticated, responsive e-commerce landing page designed for a premium perfume brand. This project showcases a seamless blend of modern design using **Tailwind CSS** and interactive user experiences powered by **JavaScript**.
 
